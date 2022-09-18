@@ -33,6 +33,9 @@ Technologies:
 <a>
   <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/>
 </a>
+<a>
+  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"/>
+</a>
 </a>
 <br />
 <br />
