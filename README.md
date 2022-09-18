@@ -12,8 +12,6 @@ lets connect 👇
 <br />
 <br />
 
-I also speak at colleges and technical conferences. I'm just an invite away - akshaysaini.in@gmail.com
-
 Technologies:
 
 <a>
@@ -38,9 +36,3 @@ Technologies:
 </a>
 <br />
 <br />
-Also interested in:
-- Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress  
-
-Cheers,  
-Kirubel Zebee 
-[akshaysaini.in](https://akshaysaini.in/)
