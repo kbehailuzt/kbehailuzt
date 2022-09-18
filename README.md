@@ -15,13 +15,11 @@ lets connect 👇
 I also speak at colleges and technical conferences. I'm just an invite away - akshaysaini.in@gmail.com
 
 Technologies:
-- Typescript, React, C, C+
-- Node, Java, C# 
 <a>
   <img align="left" alt="Kirubel Zebene - LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
 </a>
 <a>
-  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>
+  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/>
 </a>
 <a>
   <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
@@ -31,6 +29,9 @@ Technologies:
 </a>
 <a>
   <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+<a>
+  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/>
+</a>
 </a>
 <br />
 <br />
