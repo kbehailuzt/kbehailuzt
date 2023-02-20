@@ -24,7 +24,7 @@ Technologies:
   <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
 </a>
 <a>
-  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+  <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/136/136527.png"/>
 </a>
 <a>
   <img align="left" alt="Kirubel Zebene - Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
