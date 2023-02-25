@@ -34,7 +34,8 @@ Technologies:
 <a>
   <img align="left" alt="Kirubel Zebene - Instagram" width="18px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png"/>
 </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbehailuzt)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbehailuzt)](https://github.com/anuraghazra/github-readme-stats)
+
