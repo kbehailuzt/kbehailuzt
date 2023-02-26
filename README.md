@@ -35,6 +35,8 @@ Technologies:
 <br />
 <br />
   
-  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="_new"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbehailuzt&hide_progress=true" alt="Top Langs"></p>
+  <p><a href="https://github.com/anuraghazra/github-readme-stats" target="_new"></a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbehailuzt&show_icons=true&theme=radical" alt="Top Langs"></p>
+  
+
 
 
